@@ -1,21 +1,21 @@
 # Hi, I'm Richa Katiyar 👋  
 
-💻 Full Stack Web Developer | 🚀 Passionate Learner | 🌱 Building scalable & user-friendly applications  
+💻 JAVA Backend Developer | 🚀 Passionate Learner | 🌱 Building scalable & secure applications  
 
 ---
 
 ## 🔥 About Me  
 - 🎓 Pursuing **BCA (2023–2026)** at Global Institute of Information Technology, Greater Noida  
-- 💡 Interested in **Web Development, MERN Stack & Scalable Applications**  
+- 💡 Interested in **Building real world projects **  
 - 🌐 Love turning ideas into interactive & modern web solutions  
 
 ---
 
 ## 🛠 Tech Stack  
-**Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Node.js, Express.js, Tailwind  
-**Database:** MongoDB  
-**Other:** Git, GitHub, Python, C  
+**Frontend:** HTML, CSS, JavaScript   
+**Backend:** Core java ,Advance java ( Multithreading and concurrency,Streams and lamdas), Maven(build tool),Spring mvc,Springboot,Spring data JPA,Hibernate, etc...
+**Database:** MYSQL  
+**Other:** Git, GitHub,  C  
 
 ---
 
